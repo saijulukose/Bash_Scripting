@@ -1,18 +1,17 @@
+
 #!/bin/bash
 
-#######################################################
-# Script: 1_echo.sh
-# Description: A simple Bash script for practice echo commands
+################################################################################
+# Script: echo.sh
+# Description: Basic Bash script demonstrating echo commands and variables
 # Author: Saiju Lukose
-#######################################################
+#
+# This script showcases fundamental Bash scripting techniques, focusing on
+# echo commands and variable usage
+################################################################################
 
 
-
-#!/bin/bash
-
-# This is an updated version of the Bash script for practice
-# It uses echo commands to print messages and variables with curly braces
-
+# Display a simple greeting
 echo "Hello, this is your first Bash script!"
 echo "Welcome to the world of Bash scripting."
 
@@ -28,3 +27,4 @@ echo "This script demonstrates basic Bash scripting.
 It displays my name ${name} and age ${age}."
 
 # End of script
+
